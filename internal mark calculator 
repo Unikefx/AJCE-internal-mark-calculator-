@@ -1,0 +1,9 @@
+s1=int(input("enter the first series mark"))
+s2=int(input("enter the second series mark"))
+a1=float(input("enter assignment mark 1"))
+a2=float(input("enter assignment mark 2"))
+p=int(input("attendence mark"))
+
+sum=(s1+s2)/4 
+x= sum+a1+a2+p
+print (x)
